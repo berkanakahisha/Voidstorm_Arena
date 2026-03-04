@@ -1,0 +1,7 @@
+html,body{margin:0;padding:0;background:#05070c;overflow:hidden;height:100%}
+canvas{display:block}
+#hud{
+  position:fixed; inset:0; pointer-events:none;
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;
+  color:#e7eef9;
+}
